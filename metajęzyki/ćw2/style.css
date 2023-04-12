@@ -1,0 +1,65 @@
+p {
+	color: red;
+}
+
+h1 {
+	color: blue;
+}
+
+h3 {
+	color: gray;
+}
+
+header {
+    color: #fff;
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 10px;
+    width: 100%;
+}
+
+th {
+    background-color: #ddd;
+    color: #333;
+    font-weight: bold;
+}
+
+td,
+th {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+
+td:active {
+    background-color: gray;
+}
+
+.japonski {
+	background-color: #111111;
+}
+
+.arabski {
+	background-color: #222222;
+}
+
+.polski {
+	background-color: #333333;
+}
+
+#spis-treści:active {
+    background-color: gray;
+    border: 1px solid black;
+}
